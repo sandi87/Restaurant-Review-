@@ -37,7 +37,7 @@ a:hover, a:focus {
 a img{
 	border: none 0px #fff;
 }
-h1, h2, h3, h4, h5, h6 {
+h3, h2, h3, h4, h5, h6 {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0 0 20px;
 }
@@ -70,10 +70,10 @@ nav {
   background-color: #252831;
   text-align: center;
 }
-nav h1 {
+nav h3 {
   margin: auto;
 }
-nav h1 a {
+nav h3 a {
   color: #fff;
   font-size: 14pt;
   font-weight: 200;
@@ -182,7 +182,7 @@ nav h1 a {
   max-width: 100%;
   min-width: 100%;
 }
-#restaurants-list li h1 {
+#restaurants-list li h3 {
   color: ##B36200;
   font-family: Arial,sans-serif;
   font-size: 14pt;
